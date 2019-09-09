@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aachairoer.it-frettchen.de/sitemap.xml
